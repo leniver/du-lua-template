@@ -1,6 +1,8 @@
 -- This is where you initialize your program
 local load = function()
     --- math.randomseed(DUSystem.getUtcTime()) -- Uncomment this line if random is needed
+
+    --- local exampleObject = Example.new(DUSystem)
 end
 
 if localDirectory then
